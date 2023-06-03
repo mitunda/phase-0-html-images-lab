@@ -125,7 +125,7 @@ the following URL as your source:
 https://s3.amazonaws.com/ironboard-learn/lion.jpg
 ```
 
-![lion](https://s3.amazonaws.com/ironboard-learn/lion.jpg)
+
 
 Your challenge is to write _three_ image tags:
 
